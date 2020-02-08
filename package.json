@@ -1,0 +1,15 @@
+{
+  "name": "cli-exercise",
+  "version": "1.0.0",
+  "description": "cli exercise program",
+  "main": "dist/index.js",
+  "repository": "git@github.com:peng/cli-exercise.git",
+  "author": "peng <414326615@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.7.0"
+  },
+  "bin": {
+    "cli": "dist/index.js"
+  }
+}
