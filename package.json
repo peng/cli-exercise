@@ -1,6 +1,6 @@
 {
   "name": "cli-exercise",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "cli exercise program",
   "main": "dist/index.js",
   "repository": "git@github.com:peng/cli-exercise.git",
@@ -12,5 +12,8 @@
   "bin": {
     "cli": "dist/index.js"
   },
-  "keywords": ["cli", "exercise"]
+  "keywords": [
+    "cli",
+    "exercise"
+  ]
 }
