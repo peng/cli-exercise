@@ -11,5 +11,6 @@
   },
   "bin": {
     "cli": "dist/index.js"
-  }
+  },
+  "keywords": ["cli", "exercise"]
 }
